@@ -1,0 +1,10 @@
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\bin\Debug\Calculadora.exe.config
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\bin\Debug\Calculadora.exe
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\bin\Debug\Calculadora.pdb
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\obj\Debug\Calculadora.Form1.resources
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\obj\Debug\Calculadora.exe
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Calculadora\obj\Debug\Calculadora.pdb

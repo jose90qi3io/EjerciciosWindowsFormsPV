@@ -1,0 +1,39 @@
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\Inicio de sesion.exe.config
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\Inicio de sesion.exe
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\Inicio de sesion.pdb
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio de sesion.csproj.AssemblyReference.cache
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio_de_sesion.Form1.resources
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio_de_sesion.Properties.Resources.resources
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio de sesion.csproj.GenerateResource.cache
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio de sesion.csproj.CoreCompileInputs.cache
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio de sesion.exe
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio de sesion.pdb
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio_de_sesion.Inicio.resources
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\MySql.Data.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\Google.Protobuf.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\Zstandard.Net.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\BouncyCastle.Crypto.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\Ubiety.Dns.Core.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\System.Memory.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\System.Buffers.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\K4os.Compression.LZ4.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\K4os.Hash.xxHash.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\System.Numerics.Vectors.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\MySql.Data.xml
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\PC\USB\UNID\4to Cuatrimestre\Programacion Visual\Portafolios\Inicio de sesion\obj\Debug\Inicio de sesion.csproj.CopyComplete

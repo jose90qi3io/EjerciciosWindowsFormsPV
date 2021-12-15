@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.Contenedor{
+    padding:60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.Titulo{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 60px;
+    
+}
+
+header{
+    width:100%;
+    height: 600px;
+    background: #d53369;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(41, 47%, 61%, 0.473), hsla(340, 66%, 52%, 0.5)),url(../imagenes/1.jpg);
+    background: linear-gradient(to right, hsla(41, 47%, 61%, 0.473), hsla(340, 66%, 52%, 0.5)),url(../imagenes/1.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-attachment: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+
+}
+
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+nav > a{
+    font-size: 20px;
+    color: white;
+    font-weight:300;
+    text-decoration: none;
+    margin-right: 10px;
+}
+nav > a:hover{
+    text-decoration: underline;
+}
+
+header .Textos-Header{
+
+    
+    font-family: 'Smooch', cursive;
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.Textos-Header h1{
+    font-size: 500%;
+    color: #fff;
+}
+
+.Textos-Header h2{
+    font: size 30px;
+    font-weight:300;
+}
+.Wave{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.Contenedor-Sobre-Inicio{
+    display: flex;
+    justify-content:space-evenly;
+}
+.Contenido-Texto{
+    width: 48%;
+    text-align: justify;
+}
+.imagen{
+    margin-left: 10%;
+    height: 400px;
+    width:auto;
+}
+.Contenedor-Sobre-Inicio2{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.imagen2{
+    margin-top: 60px;
+    margin-left: 12%;
+    
+    height:400px;
+}
+.Contenido-Texto2{
+    width:48;
+}
+
+.Contenido-de-Interes{
+    background: #f2f2f2;
+}
+.Galeria-Cont{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Imagen-Cont{
+    width:24%
+}
+
+.imagen1{
+    background-image: url("../imagenes/sergio-mena-ferreira-N5sC8zZUgy4-unsplash.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    
+    
+}
+
+.Titulo2{
+    margin-top: 40px;
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 60px;
+    
+}
+.Contenido-Texto3{
+    margin-left: 80px;
+}
+
+.imagen2{
+
+    background-size: cover;
+    background-image: url("../imagenes/mayan.jpg");
+    background-attachment: fixed;
+    margin-left: -20px;   
+}
+
+.titulo88 span{
+    font-size: 100PX;
+    display: inline-block;
+    animation: letras 2s ease-in-out infinite;
+    animation-delay: calc(0.1s*var(--i))
+    }
+    
+    @keyframes letras{
+    
+    0%,40%,100%{transform: translateY(0);}
+    20%{transform: translateY(-20px);}
+    
+    }
+    
